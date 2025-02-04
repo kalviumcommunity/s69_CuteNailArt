@@ -9,3 +9,5 @@ Key Features:
 Frontend: React (with Vite), CSS (Tailwind or Bootstrap). Backend: Node.js, Express.js. Database: MongoDB
 
 Why This Project: I chose this project because it combines creativity with technical implementation, making it both engaging and challenging. It aligns with the course concepts and allows me to develop essential skills in full-stack development, including database design, API integration, and React component development. Additionally, the personalized aspect of the platform makes it fun to create and valuable for users who are passionate about nail art...........
+
+=========== Updated =============
