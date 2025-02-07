@@ -1,0 +1,23 @@
+{
+  "name": "cute-nail-art",
+  "version": "1.0.0",
+  "description": "Project Title: Cute Nail Art Designs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/s69_CuteNailArt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/s69_CuteNailArt/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/s69_CuteNailArt#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
